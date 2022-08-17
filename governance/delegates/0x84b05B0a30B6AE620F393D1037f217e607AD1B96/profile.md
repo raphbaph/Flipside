@@ -1,4 +1,5 @@
-name: Flipside Crypto
+---
+name: Flipside Governance
 external_profile_url: https://medium.com/flipside-governance
 tags:
   - data-driven
@@ -6,7 +7,7 @@ tags:
   - vision
   - simplicity
   - sustainability
-
+---
 
 # Flipside Crypto
 
